@@ -1,6 +1,7 @@
 # 1.基于QGraphicView实现一个图片查看器
 
-![image-20260423200813878](C:\Users\wjh\AppData\Roaming\Typora\typora-user-images\image-20260423200813878.png)
+<img width="1709" height="1109" alt="image" src="https://github.com/user-attachments/assets/ce32bc09-3b56-4db2-9305-46d59e413536" />
+
 
 图片查看器的主要功能是实现图片的显示功能。在QT中，实现一个图片查看功能可以通过两种不同的方式实现：
 
@@ -17,7 +18,8 @@
 
 关于三者之间的关系，可以使用下图来进行描述：
 
-![image-20260421083354623](C:\Users\wjh\AppData\Roaming\Typora\typora-user-images\image-20260421083354623.png)
+<img width="593" height="364" alt="image" src="https://github.com/user-attachments/assets/33f25d15-ddae-4e2f-80e3-6eaef9dba240" />
+
 
 ## 1.2 视图模型框架的使用方式
 
